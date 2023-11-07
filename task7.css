@@ -1,0 +1,15 @@
+.exam1{
+    border-style: solid;
+    border-color: red;
+}
+.exam2{
+    border-style: solid;
+    border-color: green;
+}
+.exam3{
+    border-style: solid;
+   border-top-color: green;
+   border-top-width:3px;
+
+   border-left-color: blue;
+}

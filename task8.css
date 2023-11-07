@@ -1,0 +1,37 @@
+.exam1{
+    border-style: dotted;
+    border-color:black;
+    
+}
+.exam2{
+    border-style: dashed;
+    border-color: black;
+}
+.exam3{
+    border-style: solid;
+    border-color: black;
+
+}
+.exam4{
+    border-style: double;
+    border-color: black;
+}
+.exam5{
+    border-style: groove;
+    border-color: green;
+}
+.exam6{
+    border-style: ridge;
+    border-color: green;
+
+}
+.exam7{
+    border-style: inset;
+    border-color: green;
+
+}
+.exam8{
+    border-style: outset;
+    border-color: green;
+
+}

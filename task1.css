@@ -1,0 +1,20 @@
+.Exam{
+    
+    border: 1px;
+    color: red;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: blue;
+}
+.exam2{
+    border: 1px;
+    color: black;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: yellow;
+}
+.exam3{
+    border: 2px;
+    border-style: solid;
+    border-color: green;
+}

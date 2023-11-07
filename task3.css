@@ -1,0 +1,27 @@
+.exam1{
+    border-style: solid;
+    border-color: red;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+
+    
+}
+.exam2{
+    border-style: dotted;
+    border-color: red;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+
+    
+}
+.exam3{
+    border-style: dashed;
+    border-color: red;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+
+    
+}

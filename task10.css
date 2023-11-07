@@ -1,0 +1,13 @@
+html{
+    margin: 100px;
+}
+
+
+.edit {
+    background-color: blue;
+    color: white;
+    /* position: absolute;
+    left:50%; */
+    text-align: center;
+
+}

@@ -1,0 +1,15 @@
+.exam1{
+    border-style: dashed;
+    border-color: purple;
+    color: purple;
+}
+.exam2{
+    border-style: solid;
+    border-color: red ;
+    color: red;
+}
+.exam3{
+    border-style: inset;
+    color:green;
+
+}
